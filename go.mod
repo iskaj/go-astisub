@@ -9,3 +9,5 @@ require (
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
 	golang.org/x/text v0.3.2
 )
+
+replace github.com/asticode/go-astisub => github.com/iskaj/go-astisub newbase
