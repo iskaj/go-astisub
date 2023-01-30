@@ -10,4 +10,4 @@ require (
 	golang.org/x/text v0.3.2
 )
 
-replace github.com/asticode/go-astisub => github.com/iskaj/go-astisub newbase
+replace github.com/asticode/go-astisub => github.com/iskaj/go-astisub v0.0.0-20230130144108-89ffe9231ef5
